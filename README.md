@@ -19,7 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
 </a> 
 
- :star: Languages and Tools
+
+ ### :star: Languages and Tools
+ 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
 
 
