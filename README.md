@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=neneee%20%20%20%20&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&animation=fadeIn&desc=game&descAlign=50&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=게임+개발+깃허브+페이지+입니다.;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=한국공학대학교+2022180024+유영빈;게임+개발+깃허브+입니다.)](https://git.io/typing-svg)
 
 <!--
 **neneee0181/neneee0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
