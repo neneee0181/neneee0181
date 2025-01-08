@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=게임+개발+깃허브+페이지+입니다.;Second+line+of+text)](https://git.io/typing-svg)
+
 <!--
 **neneee0181/neneee0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
