@@ -8,6 +8,10 @@
 </a>
 -->
 
+## :fire: Welcome to neneee_CODE!! :fire:
+- :raising_hand: TUK in school
+- :v: Learning game development
+
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neneee0181&show_icons=true&theme=dracula"></img>
 </a>
