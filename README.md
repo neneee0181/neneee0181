@@ -8,7 +8,12 @@
 </a>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neneee0181&show_icons=true&theme=dracula)
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=neneee0181&show_icons=true&theme=dracula"></img>
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
+</a> 
 
 <!--
 **neneee0181/neneee0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
