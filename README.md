@@ -19,8 +19,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
 </a> 
 
+ :star: Languages and Tools
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
+
+
 <!--
 **neneee0181/neneee0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://security-nanglam.tistory.com/491 - 이모지
+https://simpleicons.org/?q=c%2B%2B - 아이콘
 
 Here are some ideas to get you started:
 
