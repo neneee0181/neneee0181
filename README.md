@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neneee0181&show_icons=true&theme=dracula"></img>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
+  <img align="center" style="height:194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneee0181&layout=compact&theme=nord&hide_border=true" />
 </a> 
 
 <!--
