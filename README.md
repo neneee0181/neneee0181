@@ -24,7 +24,7 @@
 
 <a href="#">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
-<img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> </t>
 </a>
 
 
