@@ -25,8 +25,8 @@
 
 <br/>
 <br/>
-<a href="#">
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=한국공학대학교+2022180024+유영빈;게임+개발+깃허브+입니다."></img>
+<a href="https://github.com/kevin0181">
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=웹+개발+깃허브+가기"></img>
 </a>
 
 <!--
