@@ -2,13 +2,7 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=neneee%20%20%20%20&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&animation=fadeIn&desc=game&descAlign=50&descAlignY=65"></img>
 </a>
 
-<!--
-<a href="#">
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=한국공학대학교+2022180024+유영빈;게임+개발+깃허브+입니다."></img>
-</a>
--->
-
-## :fire: Welcome to neneee_CODE!! :fire:
+## :fire: Welcome to neneee Github!! :fire:
 - :raising_hand: TUK in school
 - :v: Learning game development
 
@@ -29,6 +23,11 @@
 <img src="https://img.shields.io/badge/opengl-5586A4?style=flat-square&logo=opengl&logoColor=white"/> </t>
 </a>
 
+<br/>
+<br/>
+<a href="#">
+<img align="center" src="https://readme-typing-svg.demolab.com/?lines=한국공학대학교+2022180024+유영빈;게임+개발+깃허브+입니다."></img>
+</a>
 
 <!--
 **neneee0181/neneee0181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
